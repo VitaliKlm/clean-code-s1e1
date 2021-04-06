@@ -4,25 +4,25 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.notes-image {
+.header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.notes-image img {
+.header img {
   width: 100%;
 }
-.notes-image .more-inf {
+.header .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .notes-image {
+  .header {
     text-align: center;
   }
 }
-.main-page {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
